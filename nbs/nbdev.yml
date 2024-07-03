@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "prueba_4"
+  site-url: "https://msalazarcgeo.github.io/prueba_4"
+  description: "prueba taller nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/prueba_4"
